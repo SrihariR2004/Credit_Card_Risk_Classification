@@ -1,4 +1,4 @@
-# Credit_Card_Fraud_Detection
+# Credit Card Risk Classification
 Certainly! Here's a README example specifically focused on the ensemble model you're using, without considering the Flask app:
 
 ```markdown
