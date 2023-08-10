@@ -63,7 +63,7 @@ You can evaluate the performance of the ensemble model using metrics such as acc
 
 ## License
 
-This project is licensed under the MIT License. [See LICENSE](/LICENSE) for more details.
+This project is licensed under the MIT License. [See LICENSE](/https://github.com/SrihariR2004/Credit_Card_Fraud_Detection/blob/74b625ef166c6e465eac0c1e953154614df97771/LICENSE) for more details.
 
 ## Contact
 
